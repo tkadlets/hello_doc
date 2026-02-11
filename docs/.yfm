@@ -1,4 +1,4 @@
-langs: en
+langs: ['ru', 'en']
 
 docs-viewer:
-  langs: en
+  langs: ['en','ru']
