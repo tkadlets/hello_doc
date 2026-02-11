@@ -1,5 +1,5 @@
-title: Sub-section Example TOC
+title: Restricting Access to 2FA Setup
 href: index.yaml
 items:
-  - name: Content page under sub-section
+  - name: Restricting Access to 2FA Setup
     href: content.md

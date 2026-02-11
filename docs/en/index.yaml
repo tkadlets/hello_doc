@@ -1,10 +1,4 @@
-title: Documentation Template
+title: 2FA Management
 links:
-  - title: About
+  - title: Restricting Access to 2FA Setup
     href: about.md
-  - title: Diplodoc page on index page
-    href: page.md
-  - title: YFM Structure on index page
-    href: anotherpage.md
-  - title: Sub-section on index page
-    href: sub-section/
