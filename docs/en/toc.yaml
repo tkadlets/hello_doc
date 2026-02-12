@@ -1,13 +1,9 @@
-title: Kaspersky Security Center
-href: index.yaml
+title: Kaspersky Security Center Knowledge Base
+href: page.md
 items: 
   - name: About
-    href: about.md
-  - name: Additional page 
     href: page.md
-  - name: Another page 
-    href: anotherpage.md
-  - name: Sub-Section 
+  - name: Restricting access to two-step verification setup
     include:
       path: sub-section/toc.yaml
       mode: link
